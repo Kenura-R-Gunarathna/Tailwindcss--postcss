@@ -2,7 +2,7 @@
 
 Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrate it with build tools like webpack, Rollup, Vite, and Parcel.
 
-eun below command to install all the dependances
+run below command to install all the dependances
 
 ```
 npm install
@@ -90,7 +90,7 @@ inside the `package.json` file, edit the script value as,
 
 ## Step 8 ##
 
-craete a `src` folder and inside it put the below html code.
+create a `src` folder and inside it put the below html code.
 
 Make sure your compiled CSS is included in the <head> (your framework might handle this for you), then start using Tailwind’s utility classes to style your content.
 
